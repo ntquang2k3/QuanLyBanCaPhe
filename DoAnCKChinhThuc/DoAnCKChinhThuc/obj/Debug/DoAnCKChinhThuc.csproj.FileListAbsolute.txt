@@ -1,0 +1,15 @@
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\bin\Debug\DoAnCKChinhThuc.exe.config
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\bin\Debug\DoAnCKChinhThuc.exe
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\bin\Debug\DoAnCKChinhThuc.pdb
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\obj\Debug\DoAnCKChinhThuc.DangNhap.resources
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\obj\Debug\DoAnCKChinhThuc.DoiMatKhauDangNhap.resources
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\obj\Debug\DoAnCKChinhThuc.FormQLBan.resources
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\obj\Debug\DoAnCKChinhThuc.FormQLNhanVien.resources
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\obj\Debug\DoAnCKChinhThuc.FormQLNV.resources
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\obj\Debug\DoAnCKChinhThuc.GiaoDienUser.resources
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\obj\Debug\DoAnCKChinhThuc.GiaoDienAdmin.resources
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\obj\Debug\DoAnCKChinhThuc.Properties.Resources.resources
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\obj\Debug\DoAnCKChinhThuc.csproj.GenerateResource.Cache
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\obj\Debug\DoAnCKChinhThuc.exe
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\obj\Debug\DoAnCKChinhThuc.pdb
+E:\Code_SinhVienNam3\CongNghe.Net\DoAnCKChinhThuc\DoAnCKChinhThuc\obj\Debug\DoAnCKChinhThuc.csprojResolveAssemblyReference.cache
